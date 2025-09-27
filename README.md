@@ -63,9 +63,7 @@ Payload format:
 
 ## Configuration
 
-Requires Google Cloud Storage buckets:
-- `cg-yt-raw-videos` - Raw video uploads
-- `cg-yt-processed-videos` - Processed video output
+Requires Google Cloud Storage buckets configured for raw and processed video storage.
 
 ## Learning Objectives
 
